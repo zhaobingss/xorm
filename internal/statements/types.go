@@ -7,7 +7,7 @@ package statements
 import (
 	"reflect"
 
-	"xorm.io/xorm/schemas"
+	"github.com/zhaobingss/xorm/schemas"
 )
 
 var (

@@ -11,8 +11,8 @@ import (
 	"reflect"
 
 	"xorm.io/builder"
-	"xorm.io/xorm/core"
-	"xorm.io/xorm/internal/utils"
+	"github.com/zhaobingss/xorm/core"
+	"github.com/zhaobingss/xorm/internal/utils"
 )
 
 // Rows rows wrapper a rows to

@@ -7,7 +7,7 @@ package dialects
 import (
 	"fmt"
 
-	"xorm.io/xorm/core"
+	"github.com/zhaobingss/xorm/core"
 )
 
 type Driver interface {

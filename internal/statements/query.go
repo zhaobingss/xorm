@@ -11,7 +11,7 @@ import (
 	"strings"
 
 	"xorm.io/builder"
-	"xorm.io/xorm/schemas"
+	"github.com/zhaobingss/xorm/schemas"
 )
 
 func (statement *Statement) GenQuerySQL(sqlOrArgs ...interface{}) (string, []interface{}, error) {

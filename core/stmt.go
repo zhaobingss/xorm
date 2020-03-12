@@ -11,7 +11,7 @@ import (
 	"reflect"
 	"time"
 
-	"xorm.io/xorm/log"
+	"github.com/zhaobingss/xorm/log"
 )
 
 // Stmt reprents a stmt objects

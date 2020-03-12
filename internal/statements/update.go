@@ -11,11 +11,11 @@ import (
 	"reflect"
 	"time"
 
-	"xorm.io/xorm/convert"
-	"xorm.io/xorm/dialects"
-	"xorm.io/xorm/internal/json"
-	"xorm.io/xorm/internal/utils"
-	"xorm.io/xorm/schemas"
+	"github.com/zhaobingss/xorm/convert"
+	"github.com/zhaobingss/xorm/dialects"
+	"github.com/zhaobingss/xorm/internal/json"
+	"github.com/zhaobingss/xorm/internal/utils"
+	"github.com/zhaobingss/xorm/schemas"
 )
 
 // BuildUpdates auto generating update columnes and values according a struct

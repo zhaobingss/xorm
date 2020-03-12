@@ -17,11 +17,11 @@ import (
 	_ "github.com/lib/pq"
 	_ "github.com/mattn/go-sqlite3"
 	_ "github.com/ziutek/mymysql/godrv"
-	"xorm.io/xorm/caches"
-	"xorm.io/xorm/dialects"
-	"xorm.io/xorm/log"
-	"xorm.io/xorm/names"
-	"xorm.io/xorm/schemas"
+	"github.com/zhaobingss/xorm/caches"
+	"github.com/zhaobingss/xorm/dialects"
+	"github.com/zhaobingss/xorm/log"
+	"github.com/zhaobingss/xorm/names"
+	"github.com/zhaobingss/xorm/schemas"
 )
 
 var (

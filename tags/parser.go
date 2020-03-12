@@ -13,11 +13,11 @@ import (
 	"sync"
 	"time"
 
-	"xorm.io/xorm/caches"
-	"xorm.io/xorm/convert"
-	"xorm.io/xorm/dialects"
-	"xorm.io/xorm/names"
-	"xorm.io/xorm/schemas"
+	"github.com/zhaobingss/xorm/caches"
+	"github.com/zhaobingss/xorm/convert"
+	"github.com/zhaobingss/xorm/dialects"
+	"github.com/zhaobingss/xorm/names"
+	"github.com/zhaobingss/xorm/schemas"
 )
 
 var (

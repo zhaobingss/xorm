@@ -9,7 +9,7 @@ import (
 	"database/sql"
 	"time"
 
-	"xorm.io/xorm/log"
+	"github.com/zhaobingss/xorm/log"
 )
 
 type Tx struct {

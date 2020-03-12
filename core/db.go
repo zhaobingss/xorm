@@ -14,8 +14,8 @@ import (
 	"sync"
 	"time"
 
-	"xorm.io/xorm/log"
-	"xorm.io/xorm/names"
+	"github.com/zhaobingss/xorm/log"
+	"github.com/zhaobingss/xorm/names"
 )
 
 var (

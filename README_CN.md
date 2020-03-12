@@ -4,8 +4,8 @@
 
 xorm 是一个简单而强大的Go语言ORM库. 通过它可以使数据库操作非常简便。
 
-[![Build Status](https://drone.gitea.com/api/badges/xorm/xorm/status.svg)](https://drone.gitea.com/xorm/xorm) [![](http://gocover.io/_badge/xorm.io/xorm)](https://gocover.io/xorm.io/xorm)
-[![](https://goreportcard.com/badge/xorm.io/xorm)](https://goreportcard.com/report/xorm.io/xorm)
+[![Build Status](https://drone.gitea.com/api/badges/xorm/xorm/status.svg)](https://drone.gitea.com/xorm/xorm) [![](http://gocover.io/_badge/github.com/zhaobingss/xorm)](https://gocover.io/github.com/zhaobingss/xorm)
+[![](https://goreportcard.com/badge/github.com/zhaobingss/xorm)](https://goreportcard.com/report/github.com/zhaobingss/xorm)
 [![Join the chat at https://img.shields.io/discord/323460943201959939.svg](https://img.shields.io/discord/323460943201959939.svg)](https://discord.gg/HuR2CF3)
 
 ## 特性
@@ -56,13 +56,13 @@ xorm 是一个简单而强大的Go语言ORM库. 通过它可以使数据库操�
 
 ## 安装
 
-	go get xorm.io/xorm
+	go get github.com/zhaobingss/xorm
 
 ## 文档
 
 * [操作指南](http://xorm.io/docs)
 
-* [Godoc代码文档](http://godoc.org/xorm.io/xorm)
+* [Godoc代码文档](http://godoc.org/github.com/zhaobingss/xorm)
 
 # 快速开始
 

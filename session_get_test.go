@@ -11,8 +11,8 @@ import (
 	"time"
 
 	"github.com/stretchr/testify/assert"
-	"xorm.io/xorm/contexts"
-	"xorm.io/xorm/schemas"
+	"github.com/zhaobingss/xorm/contexts"
+	"github.com/zhaobingss/xorm/schemas"
 )
 
 func TestGetVar(t *testing.T) {

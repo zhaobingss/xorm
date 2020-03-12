@@ -7,7 +7,7 @@ package tags
 import (
 	"testing"
 
-	"xorm.io/xorm/internal/utils"
+	"github.com/zhaobingss/xorm/internal/utils"
 )
 
 func TestSplitTag(t *testing.T) {

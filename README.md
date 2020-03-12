@@ -4,8 +4,8 @@
 
 Xorm is a simple and powerful ORM for Go.
 
-[![Build Status](https://drone.gitea.com/api/badges/xorm/xorm/status.svg)](https://drone.gitea.com/xorm/xorm) [![](http://gocover.io/_badge/xorm.io/xorm)](https://gocover.io/xorm.io/xorm)
-[![](https://goreportcard.com/badge/xorm.io/xorm)](https://goreportcard.com/report/xorm.io/xorm)
+[![Build Status](https://drone.gitea.com/api/badges/xorm/xorm/status.svg)](https://drone.gitea.com/xorm/xorm) [![](http://gocover.io/_badge/github.com/zhaobingss/xorm)](https://gocover.io/github.com/zhaobingss/xorm)
+[![](https://goreportcard.com/badge/github.com/zhaobingss/xorm)](https://goreportcard.com/report/github.com/zhaobingss/xorm)
 [![Join the chat at https://img.shields.io/discord/323460943201959939.svg](https://img.shields.io/discord/323460943201959939.svg)](https://discord.gg/HuR2CF3)
 
 ## Features
@@ -58,13 +58,13 @@ Drivers for Go's sql package which currently support database/sql includes:
 
 ## Installation
 
-	go get xorm.io/xorm
+	go get github.com/zhaobingss/xorm
 
 ## Documents
 
 * [Manual](http://xorm.io/docs)
 
-* [GoDoc](http://godoc.org/xorm.io/xorm)
+* [GoDoc](http://godoc.org/github.com/zhaobingss/xorm)
 
 ## Quick Start
 

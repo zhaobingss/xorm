@@ -9,9 +9,9 @@ import (
 	"fmt"
 	"testing"
 
-	"xorm.io/xorm/convert"
-	"xorm.io/xorm/internal/json"
-	"xorm.io/xorm/schemas"
+	"github.com/zhaobingss/xorm/convert"
+	"github.com/zhaobingss/xorm/internal/json"
+	"github.com/zhaobingss/xorm/schemas"
 
 	"github.com/stretchr/testify/assert"
 )

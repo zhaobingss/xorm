@@ -1,4 +1,4 @@
-IMPORT := xorm.io/xorm
+IMPORT := github.com/zhaobingss/xorm
 export GO111MODULE=on
 
 GO ?= go
