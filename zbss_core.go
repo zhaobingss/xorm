@@ -48,9 +48,9 @@ func buildSql(key string, param interface{}, session *Session) (string, error) {
 	val = strings.TrimSpace(val)
 	val = reg.ReplaceAllString(val, " ")
 
-	if session.engine.logger.IsShowSQL() {
-		session.engine.logger.Infof(val)
-	}
+	//if session.engine.logger.IsShowSQL() {
+	//	session.engine.logger.Infof(val)
+	//}
 
 	return val, err
 }
