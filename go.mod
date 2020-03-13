@@ -3,6 +3,7 @@ module github.com/zhaobingss/xorm
 go 1.11
 
 require (
+	github.com/beevik/etree v1.1.0
 	github.com/denisenkom/go-mssqldb v0.0.0-20190707035753-2be1aa521ff4
 	github.com/go-sql-driver/mysql v1.4.1
 	github.com/kr/pretty v0.1.0 // indirect

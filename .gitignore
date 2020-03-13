@@ -34,3 +34,4 @@ test.db.sql
 .idea/
 
 *coverage.out
+*.sum
