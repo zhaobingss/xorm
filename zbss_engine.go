@@ -108,8 +108,6 @@ func (engine *Engine) initSqlMap(file string) error {
 func (engine *Engine) parse(xml []byte) (map[string]string, error) {
 	ret := map[string]string{}
 
-	engine.ShowSQL()
-
 	doc := etree.NewDocument()
 	err := doc.ReadFromBytes(xml)
 	if err != nil {
